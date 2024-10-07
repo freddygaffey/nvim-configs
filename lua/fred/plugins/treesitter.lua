@@ -44,7 +44,7 @@ return {
         "c",
         "cpp",
         "python",
-
+        "conf"
       },
       incremental_selection = {
         enable = true,
