@@ -11,14 +11,13 @@ opt.shiftwidth = 2 -- 2 space intent width
 opt.expandtab = true -- ?
 opt.autoindent = true
 
-opt.wrap = false
+-- opt.wrap = false
 
 -- search setings
 opt.ignorecase = true
-opt.smartcase = true 
+opt.smartcase = true
 
 opt.cursorline = true
-
 
 -- turn on termguicolors for nightfly colorscheme to work
 -- (have to use iterm2 or any other true color terminal)
@@ -38,5 +37,3 @@ opt.splitbelow = true -- split horizontal window to thebottom
 
 -- turn off swapfile
 opt.swapfile = false
-
-
